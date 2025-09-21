@@ -251,3 +251,4 @@ Analyze Netflix userbase dataset and provide 5 insights suitable for a marketing
 * Granola — [https://link.outskill.com/granola-outskill](https://link.outskill.com/granola-outskill)
 
 ---
+[https://highfalutin-camel-f57.notion.site/OutSkill-s-Generative-AI-Mastermind-Session-1-Resource-Guide-2572c10dd7068090a415fa41db7b5d54]
